@@ -281,4 +281,6 @@
 }
 .attribution {
     background: transparent;
+    display: flex;
+    justify-content: center;
 }
